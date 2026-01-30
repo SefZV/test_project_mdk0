@@ -34,3 +34,22 @@ def zv_dan (n):
     return n**2
 
 print(zv_dan(5))
+
+
+f = list(range(3,7))
+print(f)
+
+
+
+
+numbrs = [1,2,3,4,5]
+
+rs = list(filter(lambda x: x%2==0, numbrs))
+print(rs)
+
+
+def sef (n):
+    return n**2
+
+print(sef(5))
+
