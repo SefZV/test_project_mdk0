@@ -56,4 +56,4 @@ def sef (n):
     return n**2
 
 print(sef(5))
-
+print(5)
