@@ -32,6 +32,8 @@ for i in range(5):
 
 def zv_dan (n):
     return n**2
+def zv_dan2 (n):
+    return n**2
 
 print(zv_dan(5))
 
