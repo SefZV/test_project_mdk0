@@ -36,6 +36,8 @@ def zv_dan (n):
 print(zv_dan(5))
 
 
+print("def")
+
 f = list(range(3,7))
 print(f)
 
