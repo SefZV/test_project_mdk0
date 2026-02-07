@@ -57,3 +57,5 @@ def sef (n):
 
 print(sef(5))
 print(5)
+
+print(5)
